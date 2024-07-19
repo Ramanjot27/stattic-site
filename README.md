@@ -1,3 +1,3 @@
 # stattic-site-generator
-name - ramnanjot kaur 
+name - ramanjot kaur 
 Jekyll template
